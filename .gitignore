@@ -1,0 +1,17 @@
+# OS / Editor junk
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+
+# Dependency directories (در صورت استفاده در آینده)
+node_modules/
+vendor/
+
+# فایل‌های فشرده/بک‌آپ
+*.zip
+*.tar.gz
+
+# لاگ‌ها
+*.log
